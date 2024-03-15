@@ -40,7 +40,3 @@ For getting more understanding, you can donwload the project and upload it to yo
 -Any contribution is welcome. Feel free to contribute.
 
 -if you faced some problems, just contact me, i will be more than happy to help you.
-
-## Contact
-
-This is my LinkedIn account : https://www.linkedin.com/in/younes-belouche-641bb3197/
